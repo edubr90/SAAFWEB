@@ -1,0 +1,12 @@
+﻿.texto-cabecalho {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.6em;
+  font-weight: lighter;
+}
+
+.img-thumbnail-fotinha {
+  width: 35px;
+  height: 35px;
+  margin: 10px 10px;
+  display: inline-flex;
+}
